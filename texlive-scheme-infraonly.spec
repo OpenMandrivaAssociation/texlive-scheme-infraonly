@@ -1,6 +1,6 @@
 Name:		texlive-scheme-infraonly
 Version:	54191
-Release:	1
+Release:	2
 Summary:	infrastructure-only scheme (no TeX at all)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scheme-infraonly
