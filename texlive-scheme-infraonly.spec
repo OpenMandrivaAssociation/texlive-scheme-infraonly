@@ -3,7 +3,7 @@ Version:	54191
 Release:	2
 Summary:	infrastructure-only scheme (no TeX at all)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scheme-infraonly
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scheme-infraonly
 License:	
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scheme-infraonly.r%{version}.tar.xz
 BuildArch:	noarch
