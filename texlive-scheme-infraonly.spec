@@ -14,8 +14,8 @@ BuildSystem:	texlive
 Requires:	texlive(hyphen-base)
 Requires:	texlive(kpathsea)
 Requires:	texlive(texlive-scripts)
-Requires:	texlive(texlive.infra)
-Provides:	texlive(%{tl_name}) = %{tl_revision}
+Requires:	texlive-tlpkg
+Provides:	texlive(%{tl_name}) = %{version}
 
 %description
 This is the TeX Live scheme for infrastructure only, with no TeX engines
